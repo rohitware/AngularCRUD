@@ -1,0 +1,6 @@
+this._toastr.success('Hello world!', 'Toastr fun!');
+    this._toastr.info('Hello world!', 'Toastr fun!');
+    this._toastr.warning('Hello world!', 'Toastr fun!');
+    this._toastr.error('Hello world!', 'Toastr fun!');
+
+    Swal.fire('Hello....');
